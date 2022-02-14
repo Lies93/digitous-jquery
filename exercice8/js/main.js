@@ -1,0 +1,1 @@
+$(".btn.btn-success").click (displaySecretText)
